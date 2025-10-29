@@ -1,1 +1,0 @@
-console.log(`First ${firstLetter}, Middle ${middleLetter},Last ${lastleLetter}`);
